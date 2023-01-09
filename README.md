@@ -5,3 +5,4 @@ changes done from git local
 changes again from git remote
 changes from local
 to test fetch command
+to check pull command
